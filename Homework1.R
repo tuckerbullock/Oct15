@@ -1,4 +1,4 @@
-#introduce file
+#Introduce file
 bonds <-read.csv('Homework1_Bonds.csv')
 
 #Question 1:
