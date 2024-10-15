@@ -1,5 +1,5 @@
 #introduce file
-bonds <- read.csv('Homework1_Bonds.csv')
+bonds <-read.csv('Homework1_Bonds.csv')
 
 #Question 1:
 table(bonds$Result)
